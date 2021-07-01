@@ -21,19 +21,22 @@ public class ListIteratorImpl {
 
         int ia = iterator.nextIndex();
         String ea = iterator.next();
-        System.out.println("Index= " + ia +" Element :" + ea);
+        System.out.println("Index= " + ia + " Element :" + ea);
 
         int ib = iterator.nextIndex();
         String eb = iterator.next();
-        System.out.println("Index= " + ib +" Element: " + eb);
+        System.out.println("Index= " + ib + " Element: " + eb);
 
         int ic = iterator.nextIndex();
         String ec = iterator.next();
-        System.out.println("Index= " + ic +" Element: " + ec);
+        System.out.println("Index= " + ic + " Element: " + ec);
 
         boolean elementsPresent2 = iterator.hasNext();
         System.out.println(elementsPresent2);
-        String element = iterator.next();
-        System.out.println(element);
+        if (iterator.hasNext()) {
+            String element = iterator.next();
+            System.out.println(element);
+        }
+
     }
 }
