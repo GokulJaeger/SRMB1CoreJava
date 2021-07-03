@@ -1,3 +1,5 @@
+package com.srm.cjava.week2.day10;
+
 public class Emplo {
     private int roll;
     private String name;

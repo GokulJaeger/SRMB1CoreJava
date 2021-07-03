@@ -1,3 +1,5 @@
+package com.srm.cjava.week2.day10;
+
 import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
@@ -36,5 +38,7 @@ public class AccountInfo {
                 System.out.println(ent.getKey() + "=>" + ent.getValue());
             }
         }
+
+        sc.close();
     }
 }
