@@ -10,7 +10,7 @@ public class PalindromeString {
         str = str + " ";
         String word = "";
         int len = str.length();
-        
+
         for (int i = 0; i < len; i++) {
             char ch = str.charAt(i);
             if (ch == ' ') {
@@ -22,17 +22,13 @@ public class PalindromeString {
                         break;
                     }
                 }
-                
                 if (isPalin)
-                     System.out.println(word);
-                     
+                    System.out.println(word);
                 word = "";
-            }
-            else {
+            } else {
                 word += ch;
             }
         }
-
         in.close();
-     }
+    }
 }

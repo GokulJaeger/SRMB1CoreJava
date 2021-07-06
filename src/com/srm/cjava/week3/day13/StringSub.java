@@ -3,7 +3,7 @@ package com.srm.cjava.week3.day13;
 public class StringSub {
     public static void main(String[] args) {  
   
-        String str = "Eren Jaeger";  
+        String str = "abc";  
         int len = str.length();  
         int temp = 0;    
         String arr[] = new String[len*(len+1)/2];   
