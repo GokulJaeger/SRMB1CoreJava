@@ -28,7 +28,7 @@ class Traffic extends Frame implements ItemListener {
             }
         });
     }
-
+    
     public static void main(String[] args) {
         new Traffic();
     }
