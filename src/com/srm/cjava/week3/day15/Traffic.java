@@ -9,9 +9,9 @@ class Traffic extends Frame implements ItemListener {
     Traffic() {
         Checkbox c1, c2, c3;
         CheckboxGroup cbg = new CheckboxGroup();
-        c1 = new Checkbox("red", true, cbg);
-        c2 = new Checkbox("green", true, cbg);
-        c3 = new Checkbox("yellow", true, cbg);
+        c1 = new Checkbox("Red", true, cbg);
+        c2 = new Checkbox("Green", true, cbg);
+        c3 = new Checkbox("Yellow", true, cbg);
         setSize(500, 500);
         setTitle("Traffic Signal");
         setVisible(true);
@@ -43,16 +43,16 @@ class Traffic extends Frame implements ItemListener {
         g.drawOval(200, 300, 50, 50);
         g.drawOval(200, 400, 50, 50);
         g.drawOval(200, 500, 50, 50);
-        g.drawRect(180, 200, 100, 400);
-        if (clr.equals("red")) {
+
+        if (clr.equals("Red")) {
             g.setColor(Color.red);
             g.fillOval(200, 300, 50, 50);
         }
-        if (clr.equals("green")) {
+        if (clr.equals("Green")) {
             g.setColor(Color.green);
             g.fillOval(200, 400, 50, 50);
         }
-        if (clr.equals("yellow")) {
+        if (clr.equals("Yellow")) {
             g.setColor(Color.yellow);
             g.fillOval(200, 500, 50, 50);
         }

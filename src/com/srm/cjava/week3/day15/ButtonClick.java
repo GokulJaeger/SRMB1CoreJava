@@ -19,7 +19,7 @@ public class ButtonClick implements ActionListener {
 
 	private JButton countUpButton;
 
-	private JButton countDownButton;
+	// private JButton countDownButton;
 
 	public JPanel createPanel() {
 
