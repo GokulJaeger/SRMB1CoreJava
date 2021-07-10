@@ -83,7 +83,7 @@ public class SwingScroll {
         "\nWarm squid salad",
         "\nZucchini or courgette"};
 
-        JTextArea textArea = new JTextArea(10, 25);
+        JTextArea textArea = new JTextArea(10, 10);
         for(int i=0;i<str.length;i++){
             textArea.append(str[i]);
         }

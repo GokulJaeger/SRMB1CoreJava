@@ -43,6 +43,7 @@ public class ButtonClick implements ActionListener {
 	public void actionPerformed(ActionEvent event) {
 		if (event.getSource() == countUpButton) {
 			counter++;
+			
 			counterLabel.setText("" + counter);
 		}
 		else {

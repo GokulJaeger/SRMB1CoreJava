@@ -13,8 +13,7 @@ public class WindowsAdapter {
   class WindowHandler extends WindowAdapter {
     public void windowClosing(WindowEvent e) {
       System.out.println("closing");
-      window.dispose(); // Release the window resources
-      System.exit(0); // End the application
+ 
     }
   }
   public static void main(String[] args) {
