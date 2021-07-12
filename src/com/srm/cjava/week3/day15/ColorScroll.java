@@ -50,6 +50,7 @@ class ColorScroll extends JFrame implements AdjustmentListener
 
     public static void main(String args[])
     {
-        ColorScroll obj=new ColorScroll();  
+        ColorScroll obj=new ColorScroll();
+        System.out.println(obj); 
     }
 }
