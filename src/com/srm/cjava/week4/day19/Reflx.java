@@ -23,7 +23,7 @@ public class Reflx {
 
             Anime a1 = new Anime();
             a1.newAnimeList();
-            Class obj = a1.getClass();
+            Class<? extends Anime> obj = a1.getClass();
             Method[] methods = obj.getDeclaredMethods();
             for (Method m : methods) {
                 System.out.println("Method Name: " + m.getName());
