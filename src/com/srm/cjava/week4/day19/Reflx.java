@@ -1,4 +1,4 @@
-package com.srm.cjava.week4.day19;
+package day19;
 
 import java.lang.Class;
 import java.lang.reflect.*;

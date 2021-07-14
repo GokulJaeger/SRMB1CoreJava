@@ -1,5 +1,5 @@
+package day19.rmi;
 import java.rmi.*;
-import java.rmi.registry.*;
 
 public class ServerRMI {
     public static void main(String args[]) {

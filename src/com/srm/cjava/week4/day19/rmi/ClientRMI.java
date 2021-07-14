@@ -1,3 +1,5 @@
+package day19.rmi;
+
 import java.rmi.*;
 
 public class ClientRMI {

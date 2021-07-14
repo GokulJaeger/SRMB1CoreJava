@@ -1,4 +1,4 @@
-package com.srm.cjava.week4.day19;
+package day19;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
