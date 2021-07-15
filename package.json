@@ -1,0 +1,22 @@
+{
+  "name": "srmb1corejava",
+  "version": "1.0.0",
+  "description": "Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GokulJaeger/SRMB1CoreJava.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GokulJaeger/SRMB1CoreJava/issues"
+  },
+  "homepage": "https://github.com/GokulJaeger/SRMB1CoreJava#readme"
+}
