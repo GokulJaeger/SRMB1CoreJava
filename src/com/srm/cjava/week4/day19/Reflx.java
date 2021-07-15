@@ -9,7 +9,7 @@ class Anime {
         System.out.println("My Hero Academia Seasin 5\n");
     }
 
-    private void oldAnimeList() {
+    protected void oldAnimeList() {
         System.out.println("Dr.Stone Season 2");
         System.out.println("Attack On Titans Season 3");
         System.out.println("Death Note 2");
