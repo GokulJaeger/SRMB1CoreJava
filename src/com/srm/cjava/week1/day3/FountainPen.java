@@ -1,4 +1,4 @@
-package com.srm.cjava.week1.day3;
+package week1.day3;
 
 abstract class Pen {
     public abstract void write();

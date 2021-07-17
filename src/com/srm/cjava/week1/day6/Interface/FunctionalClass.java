@@ -1,4 +1,4 @@
-package com.srm.cjava.week1.day6.Interface;
+package week1.day6.Interface;
 
 class FunctionalClass<T extends Comparable<T>> implements MinMax<T> {
     T[] values;

@@ -1,4 +1,4 @@
-package com.srm.cjava.week1.day1;
+package week1.day1;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package com.srm.cjava.week1.day1;
+package week1.day1;
 
 public class CountPalindrome {
     public static void main(String[] args){

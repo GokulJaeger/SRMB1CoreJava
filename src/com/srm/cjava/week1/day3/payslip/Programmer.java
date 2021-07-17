@@ -1,4 +1,4 @@
-package com.srm.cjava.week1.day3.payslip;
+package week1.day3.payslip;
 
 public class Programmer extends Employee{
     int bp;

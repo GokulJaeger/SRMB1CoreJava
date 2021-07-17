@@ -1,4 +1,4 @@
-package com.srm.cjava.week1.day2;
+package week1.day2;
 
 public class Consumer {
     private int cono;

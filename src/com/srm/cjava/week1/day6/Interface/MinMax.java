@@ -1,4 +1,4 @@
-package com.srm.cjava.week1.day6.Interface;
+package week1.day6.Interface;
 
 public interface MinMax<T extends Comparable<T>> {
     T min();

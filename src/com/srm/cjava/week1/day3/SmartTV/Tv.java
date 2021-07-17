@@ -1,4 +1,4 @@
-package com.srm.cjava.week1.day3.SmartTV;
+package week1.day3.SmartTV;
 
 class Tv{
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.srm.cjava.week1.day5;
+package week1.day5;
 
 class ThreadAliveJoin {
     public static void main(String args[]) {

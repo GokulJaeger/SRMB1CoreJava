@@ -1,4 +1,4 @@
-package com.srm.cjava.week1.day5;
+package week1.day5;
 
 class Square extends Thread {
     int x;

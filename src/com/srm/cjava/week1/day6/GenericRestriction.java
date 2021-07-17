@@ -1,4 +1,4 @@
-package com.srm.cjava.week1.day6;
+package week1.day6;
 
 class RestrictClass<T extends Number> {
     T ob;

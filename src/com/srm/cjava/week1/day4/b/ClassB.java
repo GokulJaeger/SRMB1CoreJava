@@ -1,5 +1,5 @@
-package com.srm.cjava.week1.day4.b;
-import com.srm.cjava.week1.day4.a.ClassA;
+package week1.day4.b;
+import week1.day4.a.ClassA;
 
 
 class ClassB {

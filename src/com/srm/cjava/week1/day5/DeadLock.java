@@ -1,4 +1,4 @@
-package com.srm.cjava.week1.day5;
+package week1.day5;
 
 public class DeadLock {
     final static Object res1 = new Object();

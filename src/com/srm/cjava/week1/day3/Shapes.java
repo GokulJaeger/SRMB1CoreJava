@@ -1,4 +1,4 @@
-package com.srm.cjava.week1.day3;
+package week1.day3;
 
 class Shape {
     public void printshape() {

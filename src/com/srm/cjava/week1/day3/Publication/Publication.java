@@ -1,4 +1,4 @@
-package com.srm.cjava.week1.day3.Publication;
+package week1.day3.Publication;
 
 class Publication {
     protected String title;

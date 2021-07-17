@@ -1,4 +1,4 @@
-package com.srm.cjava.week1.day3.SmartTV;
+package week1.day3.SmartTV;
 
 public interface Remote {
     public void on();

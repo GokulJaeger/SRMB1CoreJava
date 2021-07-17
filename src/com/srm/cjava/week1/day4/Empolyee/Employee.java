@@ -1,4 +1,4 @@
-package com.srm.cjava.week1.day4.Empolyee;
+package week1.day4.Empolyee;
 
 import java.util.Scanner;
 

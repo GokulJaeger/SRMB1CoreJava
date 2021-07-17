@@ -1,4 +1,4 @@
-package com.srm.cjava.week1.day4.Student;
+package week1.day4.Student;
 
 import java.util.Scanner;
 
