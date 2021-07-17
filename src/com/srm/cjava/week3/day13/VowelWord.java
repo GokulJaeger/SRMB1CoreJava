@@ -1,4 +1,4 @@
-package com.srm.cjava.week3.day13;
+package week3.day13;
 
 public class VowelWord {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.srm.cjava.week3.day18.socketTCP;
+package week3.day18.socketTCP;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;

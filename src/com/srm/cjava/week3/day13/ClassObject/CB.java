@@ -1,4 +1,4 @@
-package com.srm.cjava.week3.day13.ClassObject;
+package week3.day13.ClassObject;
 
 public class CB {
     private int x;

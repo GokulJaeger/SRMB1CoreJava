@@ -1,4 +1,4 @@
-package com.srm.cjava.week3.day13.ClassObject;
+package week3.day13.ClassObject;
 
 public class ABMain {
     public static void main(String[] args) {

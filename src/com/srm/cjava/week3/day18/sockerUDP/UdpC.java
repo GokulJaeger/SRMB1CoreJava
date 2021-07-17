@@ -1,4 +1,4 @@
-package com.srm.cjava.week3.day18.sockerUDP;
+package week3.day18.sockerUDP;
 
 import java.net.*;
 

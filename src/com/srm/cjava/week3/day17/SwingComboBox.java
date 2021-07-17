@@ -1,4 +1,4 @@
-package com.srm.cjava.week3.day17;
+package week3.day17;
 
 import java.awt.event.*;
 import java.awt.*;

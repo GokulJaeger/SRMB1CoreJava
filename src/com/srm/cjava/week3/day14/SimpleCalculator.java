@@ -1,4 +1,4 @@
-package com.srm.cjava.week3.day14;
+package week3.day14;
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;

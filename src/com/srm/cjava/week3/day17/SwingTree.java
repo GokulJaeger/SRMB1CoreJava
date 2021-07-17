@@ -1,4 +1,4 @@
-package com.srm.cjava.week3.day17;
+package week3.day17;
 
 import javax.swing.*;
 import javax.swing.tree.DefaultMutableTreeNode;

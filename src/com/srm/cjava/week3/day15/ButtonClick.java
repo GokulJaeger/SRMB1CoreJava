@@ -1,4 +1,4 @@
-package com.srm.cjava.week3.day15;
+package week3.day15;
 
 import java.awt.BorderLayout;
 import java.awt.Container;

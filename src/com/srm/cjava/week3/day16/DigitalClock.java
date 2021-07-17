@@ -1,4 +1,4 @@
-package com.srm.cjava.week3.day16;
+package week3.day16;
 
 import java.awt.*;   
 import java.util.*;  

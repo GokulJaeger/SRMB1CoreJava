@@ -1,4 +1,4 @@
-package com.srm.cjava.week3.day18.serialization;
+package week3.day18.serialization;
 
 import java.io.*;
 

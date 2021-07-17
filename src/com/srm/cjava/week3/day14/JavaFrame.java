@@ -1,4 +1,4 @@
-package com.srm.cjava.week3.day14;
+package week3.day14;
 import java.awt.BorderLayout;
 import java.awt.Button;
 import java.awt.Component;
