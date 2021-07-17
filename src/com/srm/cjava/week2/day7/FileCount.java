@@ -1,4 +1,4 @@
-package com.srm.cjava.week2.day7;
+package week2.day7;
 
 import java.io.BufferedReader;
 import java.io.File;

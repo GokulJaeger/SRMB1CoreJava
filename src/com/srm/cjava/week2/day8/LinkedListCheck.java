@@ -1,4 +1,4 @@
-package com.srm.cjava.week2.day8;
+package week2.day8;
 
 import java.util.LinkedList;
 import java.util.List;

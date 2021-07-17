@@ -1,4 +1,4 @@
-package com.srm.cjava.week2.day10;
+package week2.day10;
 
 import java.util.ArrayList;
 import java.util.Collections;

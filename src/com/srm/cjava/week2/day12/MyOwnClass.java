@@ -1,4 +1,4 @@
-package com.srm.cjava.week2.day12;
+package week2.day12;
 
 public class MyOwnClass {
     private String name;

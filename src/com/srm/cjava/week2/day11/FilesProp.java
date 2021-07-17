@@ -1,4 +1,4 @@
-package com.srm.cjava.week2.day11;
+package week2.day11;
 
 import java.io.Console;
 import java.io.FileInputStream;

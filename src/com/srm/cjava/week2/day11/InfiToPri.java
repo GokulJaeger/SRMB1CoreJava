@@ -1,4 +1,4 @@
-package com.srm.cjava.week2.day11;
+package week2.day11;
 
 public class InfiToPri{
     public static void main(String[] args) {
