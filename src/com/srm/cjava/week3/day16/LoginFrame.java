@@ -68,10 +68,8 @@ public class LoginFrame extends JFrame implements ActionListener {
     @Override
     public void actionPerformed(ActionEvent e) {
         if (e.getSource() == loginButton) {
-            String userText;
-            String pwdText;
-            userText = userTextField.getText();
-            pwdText = passwordField.getText();
+            String userText = userTextField.getText();
+            String pwdText = passwordField.getText();
             if (userText.equalsIgnoreCase("Gokul") && pwdText.equalsIgnoreCase("Gokul@123")) {
                 JOptionPane.showMessageDialog(this, "Login Successful");
             } else {
